@@ -1,0 +1,26 @@
+{
+  "name": "orgmenta-views",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orgmenta-chris/views.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orgmenta-chris/views/issues"
+  },
+  "homepage": "https://github.com/orgmenta-chris/views#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.71.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28"
+  }
+}
